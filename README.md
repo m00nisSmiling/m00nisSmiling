@@ -5,10 +5,10 @@
 
 ## [+] About Me [+]
 <strong>🌱 I’m currently working as a penetration tester (Cyber Security).</strong>
-####    I like to create penetration testing tools & exploits.
-####    I don't like lazy people who don't study, so I live my life so that I don't become that kind of person \\('_')// .
-#### 💬 Ask me about Anime movies, Python codes and Cybersec...
-#### 📫 [Facebook](https://www.facebook.com/people/Moon-is-Smiling/61566986351368/)
-#### 😄 Pronouns: You can call me Moon (or) Moonissmiling
-#### ⚡ Fun fact: I am not me !
+<strong>I like to create penetration testing tools & exploits</strong>
+<strong>I don't like lazy people who don't study, so I live my life so that I don't become that kind of person </strong>
+<strong>💬 Ask me about Anime movies, Python codes and Cybersec </strong>
+<strong>📫 [Facebook](https://www.facebook.com/people/Moon-is-Smiling/61566986351368/) </strong>
+<strong>😄 Pronouns: You can call me Moon (or) Moonissmiling </strong>
+<strong>⚡ Fun fact: I am not me ! </strong>
 </div>
