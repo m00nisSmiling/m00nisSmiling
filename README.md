@@ -3,7 +3,7 @@
 <img src='https://github.com/user-attachments/assets/04b4130a-9bd5-4c97-8a94-a2dbe1448fc7' width='400' height='200'>
 <br><br>
 
-## [+] About Me [+]
+## - About Me -
 <strong>🌱 I’m currently working as a penetration tester (Cyber Security) </strong><br>
 <strong>I like to create penetration testing tools & exploits</strong><br>
 <strong>I don't like lazy people who don't study, so I live my life so that I don't become that kind of person </strong><br>
