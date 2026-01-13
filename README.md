@@ -4,6 +4,7 @@
 <h1> Learning everythings = Fking everythings !</h1>
 
 
+<h2> About Me </h2>
 - 🌱 I’m currently working as a penetration tester (Cyber Security).
 -    I like to create penetration testing tools & exploits.
 -    I don't like lazy people who don't study, so I live my life so that I don't become that kind of person \\('_')// .
