@@ -1,5 +1,6 @@
 ------------
-<center><img src='https://github.com/user-attachments/assets/04b4130a-9bd5-4c97-8a94-a2dbe1448fc7' width='500' height='250'></center>
+<div align="center">
+<img src='https://github.com/user-attachments/assets/04b4130a-9bd5-4c97-8a94-a2dbe1448fc7' width='500' height='250'>
 <h1> Learning everythings = Fking everythings !</h1>
 
 
@@ -10,3 +11,4 @@
 - 📫 [ https://www.facebook.com/people/Moon-is-Smiling/61566986351368/ ]{Facebook Account}
 - 😄 Pronouns: You can call me Moon (or) Moonissmiling
 - ⚡ Fun fact: I am not me !
+</div>
