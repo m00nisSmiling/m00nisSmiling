@@ -1,8 +1,7 @@
-------------
 <div align="center">
 <img src='https://github.com/user-attachments/assets/04b4130a-9bd5-4c97-8a94-a2dbe1448fc7' width='500' height='250'>
 <h1> Learning everythings = Fking everythings !</h1>
-
+<br><br>
 
 ## [+] About Me [+]
 -🌱 I’m currently working as a penetration tester (Cyber Security).</li>
