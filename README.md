@@ -11,6 +11,6 @@
 <strong>📫 [Facebook](https://www.facebook.com/people/Moon-is-Smiling/61566986351368/) </strong><br>
 <strong>😄 Pronouns: You can call me Moon (or) Moonissmiling </strong><br>
 <strong>⚡ Fun fact: I am not me ! </strong>
-<img src="https://tryhackme-badges.s3.amazonaws.com/m00nissmiling.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/m00nissmiling.png" width='400' height='100' />
 
 </div>
