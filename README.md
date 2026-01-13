@@ -1,5 +1,5 @@
 <div align="center">
-<h1><marquee bgcolor="red"> Learn & Fu*k Everything ! </marquee></h1>
+<h1><font color="red"> Learn & Fu*k Everything ! </font></h1>
 <img src='https://github.com/user-attachments/assets/04b4130a-9bd5-4c97-8a94-a2dbe1448fc7' width='500' height='250'>
 <br>
 
