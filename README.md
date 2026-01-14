@@ -1,6 +1,6 @@
 <div align="center">
 <h1><font color="red"> Learn & Fu*k Everything ! </font></h1>
-<img src='https://github.com/user-attachments/assets/04b4130a-9bd5-4c97-8a94-a2dbe1448fc7' width='400' height='200'>
+<img src='https://github.com/user-attachments/assets/04b4130a-9bd5-4c97-8a94-a2dbe1448fc7' width='400' height='250'>
 <br><br>
 
 ## - About Me -
