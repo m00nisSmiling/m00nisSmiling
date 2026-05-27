@@ -4,7 +4,7 @@
 <br><br>
 
 ## - About Me -
-<strong>🌱 I’m currently working as a penetration tester (Cyber Security) </strong><br>
+<strong>🌱 I’m currently working as Penetration Tester (Cyber Security) </strong><br>
 <strong>I like to create penetration testing tools & exploits</strong><br>
 <strong>I don't like lazy people who don't study, so I live my life so that I don't become that kind of person </strong><br>
 <strong>💬 Ask me about Anime movies, Python codes and Cybersecurity </strong><br>
